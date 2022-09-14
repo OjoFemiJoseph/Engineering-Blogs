@@ -19,3 +19,11 @@
 [Info Q](https://www.infoq.com/ai-ml-data-eng/articles/)
 [Adobe](https://blog.developer.adobe.com/tagged/adobe-engineering)
 [Soda](https://www.soda.io/blog]
+[Ebay](https://tech.ebayinc.com/engineering/)
+[Paypal](https://medium.com/paypal-tech)
+[Afro Info Tech](https://afroinfotech.medium.com/)
+[AirBnB](https://medium.com/airbnb-engineering/data/home)
+[Criteo](https://medium.com/criteo-engineering/tagged/data)
+[Linkedin](https://engineering.linkedin.com/blog)
+[Shippeo](https://medium.com/shippeo-tech-blog)
+[My Heritage]{https://medium.com/myheritage-engineering)
