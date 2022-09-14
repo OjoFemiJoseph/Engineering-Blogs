@@ -1,3 +1,3 @@
 # Engineering-Blogs
 
-[Monte Carlo Data] (https://www.montecarlodata.com/blog/)
+[Monte Carlo Data](https://www.montecarlodata.com/blog/)
