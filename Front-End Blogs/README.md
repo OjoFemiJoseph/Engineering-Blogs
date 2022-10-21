@@ -16,9 +16,15 @@
 
 - Blog: [Css-Tricks](https://css-tricks.com/)
 
+- Blog: [CodePen Blog](https://blog.codepen.io/)
+
 ## <a name="D"> </a>D
 
 - Blog: [David Walsh Blog](https://davidwalsh.name/)
+
+- Blog: [Designveloper](https://www.designveloper.com/)
+
+- Blog: [DZone](https://dzone.com/)
 
 ## <a name="E"> </a>E
 
@@ -53,6 +59,12 @@
 ## <a name="R"> </a>R
 
 ## <a name="S"> </a>S
+
+- Blog: [Smashing Magazine](https://www.smashingmagazine.com/)
+
+- Blog: [SitePoint](https://www.sitepoint.com/)
+
+- Blog: [Simple Programmer](https://simpleprogrammer.com/)
 
 ## <a name="T"> </a>T
 
