@@ -10,13 +10,21 @@
 
 ## <a name="B"> </a>B
 
+- Blog: [BloomTech](https://www.bloomtech.com/blog/backend-development)
+
+
 ## <a name="C"> </a>C
 
+- Blog: [Coursera]( https://www.coursera.org/articles/back-end-developer)
+           
 ## <a name="D"> </a>D
 
 ## <a name="E"> </a>E
 
 ## <a name="F"> </a>F
+
+- Blog: [FreeCodeCamp](https://www.freecodecamp.org/news/learn-backend-development/)
+
 
 ## <a name="G"> </a>G
 
@@ -45,6 +53,8 @@
 ## <a name="S"> </a>S
 
 ## <a name="T"> </a>T
+
+- Blog: [TrioDev](https://www.trio.dev/blog/backend-engineer-developer)
 
 ## <a name="U"> </a>U
 
