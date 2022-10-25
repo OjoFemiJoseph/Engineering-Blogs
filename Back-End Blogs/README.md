@@ -54,7 +54,7 @@
 
 ## <a name="T"> </a>T
 
-- Blog: [https://www.trio.dev/blog/backend-engineer-developer)
+- Blog: [TrioDev](https://www.trio.dev/blog/backend-engineer-developer)
 
 ## <a name="U"> </a>U
 
