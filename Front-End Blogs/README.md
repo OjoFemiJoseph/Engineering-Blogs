@@ -68,6 +68,9 @@
 
 ## <a name="T"> </a>T
 
+- Blog: [Toptal](https://www.toptal.com/javascript/10-most-common-javascript-mistakes)
+
+
 ## <a name="U"> </a>U
 
 ## <a name="V"> </a>V
