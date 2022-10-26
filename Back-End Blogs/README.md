@@ -38,6 +38,8 @@
 
 ## <a name="K"> </a>K
 
+- Blog: [Kinsta](https://kinsta.com/blog/backend-developer/)
+
 ## <a name="L"> </a>L
 
 ## <a name="M"> </a>M
