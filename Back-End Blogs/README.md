@@ -20,6 +20,8 @@
 
 ## <a name="G"> </a>G
 
+- Blog: [Guru 99](https://www.guru99.com/what-is-backend-developer.html)
+
 ## <a name="H"> </a>H
 
 ## <a name="I"> </a>I
